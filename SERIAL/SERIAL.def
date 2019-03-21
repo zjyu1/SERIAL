@@ -1,0 +1,6 @@
+LIBRARY "SERIAL"
+EXPORTS
+OpenDriver @1
+SendData @2
+ReceiveData @3
+ClosePort @4
